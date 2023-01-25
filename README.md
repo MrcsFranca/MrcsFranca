@@ -4,15 +4,13 @@ Fala guys⚡ <br>
 Sou apaixonado por tecnologia e estudo-a constantemente. Estou no ensino médio, mas não quis esperar a faculdade para começar a estudar.📚 <br> <br> 
 Quero seguir carreira como desenvolvedor Full stack, mas por agora eu foco mais em aprender a parte de Front-end. <br>
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mrcsfranca)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrcsfranca)
+
 ##
 
 ![MrcsFranca GitHub stats](https://github-readme-stats.vercel.app/api?username=MrcsFranca&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrcsFranca&layout=compact&theme=radical)](https://github.com/MrcsFranca/github-readme-stats)
-
-##
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mrcsfranca)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrcsfranca)
 
 
 ## Tecnologias que utilizo
