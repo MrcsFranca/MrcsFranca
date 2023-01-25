@@ -26,4 +26,3 @@ Quero seguir carreira como desenvolvedor Full stack, mas por agora eu foco mais 
 
 <br>
 
-[![Snake animation]](https://github.com/MrcsFranca/MrcsFranca/blob/output/github-contribution-grid-snake.svg)
