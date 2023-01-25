@@ -7,7 +7,6 @@ Quero seguir carreira como desenvolvedor Full stack, mas por agora eu foco mais 
 ##
 
 ![MrcsFranca GitHub stats](https://github-readme-stats.vercel.app/api?username=MrcsFranca&show_icons=true&theme=radical&count_private=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrcsFranca&layout=compact&theme=radical)](https://github.com/MrcsFranca/github-readme-stats)
 
 ##
