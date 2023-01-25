@@ -1,7 +1,7 @@
 # Olá! Eu sou o Marcos França 👋
 
-Fala guys <br>
-Sou apaixonado por tecnologia e estudo-a constantemente. Estou no ensino médio, mas não quis esperar a faculdade para começar a estudar. <br> <br> 
+Fala guys⚡ <br>
+Sou apaixonado por tecnologia e estudo-a constantemente. Estou no ensino médio, mas não quis esperar a faculdade para começar a estudar.📚 <br> <br> 
 Quero seguir carreira como desenvolvedor Full stack, mas por agora eu foco mais em aprender a parte de Front-end. <br>
 
 ##
