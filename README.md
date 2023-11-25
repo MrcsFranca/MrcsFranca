@@ -8,10 +8,6 @@ Quero seguir carreira como desenvolvedor Back-end, mas por agora eu foco mais em
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrcsfranca)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/MrcsFranca)
 
-##
-
-![MrcsFranca GitHub stats](https://github-readme-stats.vercel.app/api?username=MrcsFranca&show_icons=true&theme=radical)
-
 ## Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
