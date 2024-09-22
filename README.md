@@ -8,8 +8,8 @@
   </div>
   
   <p>At the moment I'm studying Computer Science at <a href="https://www3.unicentro.br">Unicentro</a>.</p>
-  <p>The college uses <img align="center" alt="Mrcs-cpp" width="25" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg"> to teach the students, and since my first contact with the language I fell in love with it. And now I want to pursue a career as a back-end developer.</p>
-  <p>Nowdays, my interests range from calisthenics, martial arts, story mode games, first person shooting games, cooking, reading and others, and of course... coding.</p>
+  <p>Just a young boy trying to pursue a career as a hacker</p>
+  <p>Nowadays, I program in <img align="center" alt="Mrcs-cpp" width="25" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg"> and assembly. I'm trying to learn computer networks and operating systems by myself.</p>
 
   <h2>Contact me</h2>
   <p>If you want to talk with me, you can send me a message on <a href="https://www.linkedin.com/in/mrcsfranca/">LinkedIn</a> or email at <a href="mailto:marcos.negrizoli05@gmail.com?subject=Hey, found your Github account">marcos.negrizoli05@gmail.com</a>.</p>
