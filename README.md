@@ -10,8 +10,8 @@
   <p>I'm trying to learn malware development and malware analysis by myself.</p>
 
   <h2>Contact me</h2>
-  <p>If you want to talk with me, you can send me a message on <a href="https://www.linkedin.com/in/mrcsfranca/">LinkedIn</a> or email at <a href="mailto:marcos.negrizoli05@gmail.com?subject=Hey, found your Github account">marcos.negrizoli05@gmail.com</a>.</p>
-<p>Feel free to choose</p>
+  <p>If you want to talk with me, you can send me a message on <a href="https://www.linkedin.com/in/mrcsfranca/">LinkedIn</a> .</p>
+<p>Feel free to contact me</p>
   
   
   <h2>Tecnologias que utilizo</h2>
